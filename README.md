@@ -1,4 +1,4 @@
-# Planning de Staff pour les évenements étudiants
+# Prjet INFO610 - Planning de Staff pour les évenements étudiants
 
 On désire gérer par des moyens informatiques (python) le planning de staff d’un événement BDE.
 Pour un événement, il y a différents staff (ex: bar, sono, entrée …) et un certain nombre de staffeur.
