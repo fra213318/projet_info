@@ -15,7 +15,8 @@ En entrée, le programme demande donc :
 - **Le nom et genre de chaque personne qui staff**
 - **Leur contraintes** (détaillé plus bas)
 - **Le nombre de personne qu’il doit y avoir pour chaque staff** (on choisira surement des valeurs par défaut pour certain staffs).
-
+- [ ]
+- [x]
 En sortie:
 - **Un excel général** avec le planning créneau par créneau de tout le monde.
 - **Un planning excel individuel**.
